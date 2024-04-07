@@ -1,6 +1,6 @@
 # moviegpt
 
-A new Flutter project.
+A new Flutter project for displaying titles list with sorting by rating, genre, country, etc.
 
 ## Getting Started
 
